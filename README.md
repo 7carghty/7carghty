@@ -42,6 +42,18 @@
 
 ###
 
-<h4 align="left">Discord: 7carghty<br><br>Languages i understand:  🇺🇸 (EN) / 🇪🇸 (ES)</h4>
+<h3 align="left">Discord</h3>
+
+###
+
+<p align="left">7carghty</p>
+
+###
+
+<h3 align="left">I understand</h3>
+
+###
+
+<p align="left">🇺🇸 (EN) / 🇪🇸 (ES)</p>
 
 ###

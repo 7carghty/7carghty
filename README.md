@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I am known as Carghty on Discord and other communities. I’ve always been passionate about programming—ever since I was young, it’s been my dream to dive deeper into this world. I started learning at the age of 12, beginning with the basics of JavaScript and HTML, and I’ve been improving ever since. You can check out the languages I’m most comfortable with in my Bio. If you ever need help, feel free to reach out! I’m happy to share what I know, just as others have shared their knowledge with me..</h4>
+<h4 align="left">I am known as Carghty on Discord and other communities. I’ve always been passionate about programming—ever since I was young, it’s been my dream to dive deeper into this world. I started learning at 12 years old, beginning with the basics of JavaScript and HTML, and I’ve been improving ever since. You can check out the languages I’m most comfortable with in my Bio. If you ever need help, feel free to reach out! I’m happy to share what I know, just as others have shared their knowledge with me..</h4>
 
 ###
 

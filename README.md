@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I am known by the username Carghty on Discord and other communities. I enjoy programming; since I was young, it has been my dream to learn more about this world. Since I was 12 years old, I have been learning regularly, starting with the basics: JavaScript and HTML. You can see the languages I am most proficient in right here in my Bio. If you need help with anything, don't hesitate to ask me! I know that my help can help others, just as people have helped me before.</h4>
+<h4 align="left">My username is Carghty on Discord and other communities. I’ve always been passionate about programming—ever since I was young, it’s been my dream to dive deeper into this world. I started learning at the age of 12, beginning with the basics of JavaScript and HTML, and I’ve been improving ever since. You can check out the languages I’m most comfortable with in my Bio. If you ever need help, feel free to reach out! I’m happy to share what I know, just as others have shared their knowledge with me..</h4>
 
 ###
 

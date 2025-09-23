@@ -38,18 +38,10 @@
 
 ###
 
-<h2 align="left">Contact with Me</h2>
+<h1 align="left">Contact with Me</h1>
 
 ###
 
-<h4 align="left">Discord: 7carghty</h4>
-
-###
-
-<h4 align="left">Languages I understand:  🇺🇸 (EN) / 🇪🇸 (ES)</h4>
-
-###
-
-<br clear="both">
+<h4 align="left">Discord: 7carghty<br><br>Languages I understand:  🇺🇸 (EN) / 🇪🇸 (ES)</h4>
 
 ###

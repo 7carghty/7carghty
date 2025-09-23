@@ -42,6 +42,6 @@
 
 ###
 
-<h4 align="left">Discord: 7carghty<br><br>Languages I understand:  🇺🇸 (EN) / 🇪🇸 (ES)</h4>
+<h4 align="left">Discord: 7carghty<br><br>Languages i understand:  🇺🇸 (EN) / 🇪🇸 (ES)</h4>
 
 ###

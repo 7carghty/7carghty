@@ -54,6 +54,6 @@
 
 ###
 
-<p align="left">🇺🇸 (EN) / 🇪🇸 (ES)</p>
+<p align="left">EN / (ES)</p>
 
 ###
